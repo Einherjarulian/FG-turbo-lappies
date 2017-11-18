@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # https://askubuntu.com/questions/1705/how-can-i-create-a-select-menu-in-a-shell-script
-
+#Older version hence "Ye Olde"
 
 HEIGHT=15
 WIDTH=50
