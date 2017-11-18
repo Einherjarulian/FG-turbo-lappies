@@ -24,7 +24,7 @@ CHOICE=$(dialog --clear \
                 7 "Production Day Build" \
                 8 "Production Day QC" \
                 2>&1 >/dev/tty)
-
+#This sets up a menu to make a choice regarding the preferred usage of this script.
 clear
 case $CHOICE in
     1)
